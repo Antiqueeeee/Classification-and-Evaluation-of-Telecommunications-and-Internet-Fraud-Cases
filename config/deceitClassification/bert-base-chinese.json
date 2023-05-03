@@ -1,0 +1,11 @@
+{
+  "task": "deceitClassification",
+  "batch_size": 2,
+  "bert_learning_rate": 5e-06,
+  "non_bert_learning_rate": 0.001,
+  "weight_decay": 0,
+  "epochs": 1,
+  "bert_hid_size": 768,
+  "loss_type": "ce",
+  "bert_name": "E:\\MyPython\\Pre-train-Model\\mc-bert-base"
+}
